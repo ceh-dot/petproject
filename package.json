@@ -1,0 +1,11 @@
+{
+  "name": "findmypet",
+  "version": "1.0.0",
+  "description": "Pet adoption website",
+  "scripts": {
+    "dev": "php -S localhost:3000"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
